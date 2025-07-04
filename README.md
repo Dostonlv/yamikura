@@ -38,6 +38,10 @@ go run cmd/yamikura-cli/main.go -host 127.0.0.1 -port 6379
 
 Benchmarks show Yamikura performs 1.8-2.6x faster than Redis for basic operations.
 
+
+
+## Yamikura fully support redis client library
+
 ## License
 
 MIT 
