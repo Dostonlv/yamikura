@@ -1,0 +1,26 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Output directories
+/bin/
+/dist/
+
+# TLS certs
+*.pem
+*.key
+*.crt
+
+# Dependency directories
+/vendor/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo 
