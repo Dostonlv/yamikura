@@ -15,7 +15,7 @@ Yamikura is a high-performance Redis-compatible in-memory cache system written i
 ## Installation
 
 ```bash
-go get github.com/yourusername/yamikura
+go get github.com/dostonlv/yamikura
 ```
 
 ## Running the Server
